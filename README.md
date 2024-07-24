@@ -1,4 +1,5 @@
 # Microsoft-auth
+Author: `Piskorowski Jakub`
 
 ### Information
 To be able to authenticate with the Microsoft Entra identity platform you must have an account in your organization
