@@ -1,0 +1,5 @@
+{
+    "require": {
+        "adnanhussainturki/microsoft-api-php": "^0.04.0"
+    }
+}

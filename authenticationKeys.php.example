@@ -1,0 +1,8 @@
+<?php
+$tenant_id = "tentant-id"; // Directory ID (tenant)
+$client_id = "client-id";
+$client_secret = "client-secret";
+$callback = "http://localhost/Microsoft-auth/callback.php";
+$authorizationCode = "authorizationCode";
+$scopes = ["User.Read"];
+?>
